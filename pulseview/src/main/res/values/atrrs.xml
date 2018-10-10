@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PulseView">
+        <attr name="pulseColour" format="color" />
+        <attr name="startAlpha" format="float" />
+        <attr name="endAlpha" format="float" />
+        <attr name="duration" format="integer" />
+    </declare-styleable>
+</resources>
